@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="620.13611mm"
-   height="614.62054mm"
-   viewBox="0 0 620.13611 614.62054"
+   width="787.03534mm"
+   height="710.12903mm"
+   viewBox="0 0 787.03534 710.12902"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.22740928"
-     inkscape:cx="510.5987"
-     inkscape:cy="1128.1646"
+     inkscape:cx="838.16587"
+     inkscape:cy="1382.3863"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -55,14 +55,17 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-359.61266,-2.2846277)">
+     transform="translate(-272.94385,64.978179)">
     <path
        id="path16"
        style="fill:#ff0000;stroke:#000000;stroke-width:0.264583"
        inkscape:transform-center-x="-3.8769789"
        inkscape:transform-center-y="-13.911836"
        d="M 841.10594,616.83856 668.9905,321.44857 456.43668,589.21107 663.01246,316.01714 359.65287,219.23945 666.21952,308.28305 684.89613,2.2926873 674.786,309.1072 979.72192,255.41539 677.43197,318.08192 Z"
-       sodipodi:nodetypes="ccccccccccc" />
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="/home/wolfi/ScrumValues.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
     <path
        sodipodi:type="star"
        style="fill:none;stroke:#000000;stroke-width:0.264583"
@@ -79,7 +82,10 @@
        inkscape:randomized="0"
        d="m 702.23127,370.58224 -72.67626,-4.36589 -18.30599,-70.46836 61.36253,-39.18595 56.23012,46.25011 z"
        inkscape:transform-center-x="-1.1476434"
-       inkscape:transform-center-y="-4.812014" />
+       inkscape:transform-center-y="-4.812014"
+       inkscape:export-filename="/home/wolfi/ScrumValues.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
     <path
        sodipodi:type="star"
        style="fill:none;stroke:#000000;stroke-width:0.264583"
@@ -96,7 +102,10 @@
        inkscape:randomized="0"
        d="m 734.48626,427.71467 -145.50843,-8.74115 -36.65125,-141.08789 122.8567,-78.45598 112.58087,92.59944 z"
        inkscape:transform-center-x="-1.1476434"
-       inkscape:transform-center-y="-4.812014" />
+       inkscape:transform-center-y="-4.812014"
+       inkscape:export-filename="/home/wolfi/ScrumValues.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
     <path
        sodipodi:type="star"
        style="fill:none;stroke:#000000;stroke-width:0.264583"
@@ -113,7 +122,10 @@
        inkscape:randomized="0"
        d="M 766.70671,484.78591 548.44407,471.6742 493.46719,260.04235 677.75225,142.35839 846.62356,281.25755 Z"
        inkscape:transform-center-x="-1.1476434"
-       inkscape:transform-center-y="-4.812014" />
+       inkscape:transform-center-y="-4.812014"
+       inkscape:export-filename="/home/wolfi/ScrumValues.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
     <path
        sodipodi:type="star"
        style="fill:none;stroke:#000000;stroke-width:0.264583"
@@ -130,7 +142,10 @@
        inkscape:randomized="0"
        d="M 798.9271,541.85716 507.91025,524.37487 434.60774,242.19908 680.32115,85.287132 905.4829,270.48601 Z"
        inkscape:transform-center-x="-1.1476434"
-       inkscape:transform-center-y="-4.812014" />
+       inkscape:transform-center-y="-4.812014"
+       inkscape:export-filename="/home/wolfi/ScrumValues.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
     <path
        sodipodi:type="star"
        style="fill:none;stroke:#000000;stroke-width:0.264583"
@@ -147,6 +162,80 @@
        inkscape:randomized="0"
        d="M 831.14756,598.92841 467.37649,577.07555 375.74836,224.3558 682.89012,28.215871 964.3423,259.71447 Z"
        inkscape:transform-center-x="-1.1476434"
-       inkscape:transform-center-y="-4.812014" />
+       inkscape:transform-center-y="-4.812014"
+       inkscape:export-filename="/home/wolfi/ScrumValues.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.7611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="595.40277"
+       y="-59.081562"
+       id="text900"><tspan
+         sodipodi:role="line"
+         id="tspan898"
+         x="595.40277"
+         y="-59.081562"
+         style="stroke-width:0.264583">sdf</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.4px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="271.51758"
+       y="204.46213"
+       id="text904"><tspan
+         sodipodi:role="line"
+         id="tspan902"
+         x="271.51758"
+         y="204.46213"
+         style="font-size:25.4px;stroke-width:0.264583">Courage</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.4px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="385.89432"
+       y="608.91058"
+       id="text908"><tspan
+         sodipodi:role="line"
+         id="tspan906"
+         x="385.89432"
+         y="608.91058"
+         style="font-size:25.4px;stroke-width:0.264583">Openness</tspan><tspan
+         sodipodi:role="line"
+         x="385.89432"
+         y="640.66058"
+         style="font-size:25.4px;stroke-width:0.264583"
+         id="tspan910" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.4px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="791.47668"
+       y="639.86743"
+       id="text914"><tspan
+         sodipodi:role="line"
+         id="tspan912"
+         x="791.47668"
+         y="639.86743"
+         style="font-size:25.4px;stroke-width:0.264583">Respect</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.4px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="598.95319"
+       y="-8.7275095"
+       id="text918"><tspan
+         sodipodi:role="line"
+         id="tspan916"
+         x="598.95319"
+         y="-8.7275095"
+         style="font-size:25.4px;stroke-width:0.264583">Commitment</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.4px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="988.6781"
+       y="263.00552"
+       id="text922"><tspan
+         sodipodi:role="line"
+         id="tspan920"
+         x="988.6781"
+         y="263.00552"
+         style="font-size:25.4px;stroke-width:0.264583">Focus</tspan></text>
   </g>
 </svg>
